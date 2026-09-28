@@ -216,6 +216,33 @@ The network connection was then restarted/rebooted and connectivity was tested a
 # 💡 What I Learned
 Through this project, i gained practical experience with;
 
-- VM setup
+- Virtual environment setup
+- VirtualBox configuration and NAT Network creation
+- kali configuration and IPv4 addressing, subnet masks, gateaways, and DNS settings
+- clean VM snapshot creations 
+- Documentation
 
+---
 
+# 🔐 Security & Ethical Use
+
+This laboratory is intended strictly for education purposes only.  
+
+# 🔗 Tools & Resources
+
+- **7-Zip:** [https://7-zip.org/download.html](https://7-zip.org/download.html)
+- **VirtualBox:** [https://virtualbox.org/wiki/Downloads](https://virtualbox.org/wiki/Downloads)
+- **Kali Linux:** [https://kali.org/get-kali](https://kali.org/get-kali)
+
+---
+# 👤 Author
+**Halimah Daramola**\
+Cybersecurity professional B082
+
+LinkedIn: [https://www.linkedin.com/in/halimah-daramola-63663a194?utm_source=share_via&utm_content=profile&utm_medium=member_ios]
+
+---
+
+## 📌 Project Information
+
+**Program Name:** Cybersecurity at Networkwalks | **Week:** 01 | **Project:** Cybersecurity & Pentesting Lab Setup | **Repository:** GitHub
